@@ -4,7 +4,7 @@ Yo, fellow coder! Welcome to my GitHub realm. I'm Brahim, a code sorcerer hailin
 
 ## 🌟 About Me
 
-Behold! I am the wielder of the MERN Stack, and my quest is to conquer the realms of tech with my boundless creativity and insatiable curiosity. When I'm not slaying bugs or conjuring spells in the digital realm, you'll find me chilling watching a movie.
+Behold! I am the wielder of the MERN Stack, and my quest is to conquer the realms of tech with my boundless creativity and insatiable curiosity. When I'm not slaying bugs or conjuring spells in the digital realm, you'll find me lounging in my secret lair, indulging in the captivating tales spun by cinematic masters.
 
 <!--## 💻 Projects Galore
 
