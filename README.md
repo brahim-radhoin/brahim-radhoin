@@ -33,4 +33,4 @@ Let's embark on an epic quest together! Reach out to me via:
 
 Adventure awaits!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=brahim-radhoin)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=brahim-radhoin)](https://github.com/ryo-ma/github-profile-trophy) -->
