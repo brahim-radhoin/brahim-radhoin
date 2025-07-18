@@ -1,6 +1,6 @@
 # 👋 Welcome to My Digital Forge
 
-Hey there, traveler of the codeverse. I'm Brahim — a developer from Tunisia 🇹🇳 building cool things with clean code and chaotic curiosity.
+Hey there, traveler of the codeverse. I'm Brahim, a developer from Tunisia 🇹🇳 building cool things with clean code and chaotic curiosity.
 
 This is where I stash my projects, experiments, and open-source adventures. If it runs on JavaScript, I’ve probably poked at it. If it doesn’t... I might still try.
 
